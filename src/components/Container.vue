@@ -1,5 +1,5 @@
 <script setup>
-import Status from './components/Status.vue'
+import Status from './Status.vue'
 </script>
 
 <template>
