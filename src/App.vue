@@ -1,10 +1,11 @@
 <script setup>
+import Navbar from './components/Navbar.vue'
 </script>
 
 <template>
-  <div class="h-screen bg-cover rainy flex">
+  <div class="h-screen bg-cover rainy">
     <!-- Navbar -->
-
+    <Navbar />
     <!-- Body -->
   </div>
 </template>
